@@ -1,0 +1,37 @@
+_repo: Rat-Proofing-Buildings-and-Premises_62608
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Silver, James
+    birthdate: 1890
+    gutenberg_agent_id: '52030'
+    url: http://www.gutenberg.org/2009/agents/52030
+  - agent_name: Betts, M. C. (Morris Cotgrave)
+    alias: Betts, Morris Cotgrave
+    birthdate: 1875
+    deathdate: 1936
+    gutenberg_agent_id: '52032'
+    url: http://www.gutenberg.org/2009/agents/52032
+  - agent_name: Crouch, W. E. (Winney Elmer)
+    alias: Crouch, Winney Elmer
+    birthdate: 1891
+    deathdate: 1964
+    gutenberg_agent_id: '52031'
+    url: http://www.gutenberg.org/2009/agents/52031
+description: ''
+gutenberg_issued: '2020-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Farmers' bulletin no. 1638
+subjects:
+- !lcsh 'Building'
+- !lcsh 'Ratproof construction'
+- !lcc 'RC'
+- GITenberg
+title: Rat Proofing Buildings and Premises
+url: http://www.gutenberg.org/ebooks/62608
